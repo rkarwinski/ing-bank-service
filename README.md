@@ -1,4 +1,4 @@
-# Project Name
+# Service ING OPEN bank API
 
 ## Pre-requisites
 
